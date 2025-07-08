@@ -1,0 +1,9 @@
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\bin\Debug\AppNegocio.dll
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\bin\Debug\AppNegocio.pdb
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\obj\Debug\AppNegocio.csproj.AssemblyReference.cache
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\obj\Debug\AppNegocio.csproj.CoreCompileInputs.cache
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\obj\Debug\AppNegocio.dll
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\obj\Debug\AppNegocio.pdb
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\bin\Debug\AppDatos.dll
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\bin\Debug\AppDatos.pdb
+C:\uvne\septimo tetra\proyecto CapasApp\AppNegocio\obj\Debug\AppNegocio.csproj.Up2Date

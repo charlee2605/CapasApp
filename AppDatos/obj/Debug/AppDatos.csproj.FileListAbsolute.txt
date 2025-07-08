@@ -1,0 +1,6 @@
+C:\uvne\septimo tetra\proyecto CapasApp\AppDatos\bin\Debug\AppDatos.dll
+C:\uvne\septimo tetra\proyecto CapasApp\AppDatos\bin\Debug\AppDatos.pdb
+C:\uvne\septimo tetra\proyecto CapasApp\AppDatos\obj\Debug\AppDatos.csproj.AssemblyReference.cache
+C:\uvne\septimo tetra\proyecto CapasApp\AppDatos\obj\Debug\AppDatos.csproj.CoreCompileInputs.cache
+C:\uvne\septimo tetra\proyecto CapasApp\AppDatos\obj\Debug\AppDatos.dll
+C:\uvne\septimo tetra\proyecto CapasApp\AppDatos\obj\Debug\AppDatos.pdb

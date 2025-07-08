@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\uvne\\septimo tetra\\CapasApp\\",
+  "WorkspaceRootPath": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9543648B-8BF2-4401-BA72-9E62958B166F}|CapasApp\\CapasApp.csproj|c:\\uvne\\septimo tetra\\capasapp\\capasapp\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D854A09-B822-4C7E-A831-4BAD4292891B}|UnitTestCapas\\UnitTestCapas.csproj|c:\\uvne\\septimo tetra\\proyecto capasapp\\unittestcapas\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D854A09-B822-4C7E-A831-4BAD4292891B}|UnitTestCapas\\UnitTestCapas.csproj|solutionrelative:unittestcapas\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5832691-8D4F-4EFA-8A9C-E1828482B239}|AppNegocio\\AppNegocio.csproj|c:\\uvne\\septimo tetra\\proyecto capasapp\\appnegocio\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5832691-8D4F-4EFA-8A9C-E1828482B239}|AppNegocio\\AppNegocio.csproj|solutionrelative:appnegocio\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379A950C-8A08-4DDF-9905-B73B9D1B10B4}|AppDatos\\AppDatos.csproj|c:\\uvne\\septimo tetra\\proyecto capasapp\\appdatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A950C-8A08-4DDF-9905-B73B9D1B10B4}|AppDatos\\AppDatos.csproj|solutionrelative:appdatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543648B-8BF2-4401-BA72-9E62958B166F}|CapasApp\\CapasApp.csproj|c:\\uvne\\septimo tetra\\proyecto capasapp\\capasapp\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9543648B-8BF2-4401-BA72-9E62958B166F}|CapasApp\\CapasApp.csproj|solutionrelative:capasapp\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9543648B-8BF2-4401-BA72-9E62958B166F}|CapasApp\\CapasApp.csproj|c:\\uvne\\septimo tetra\\capasapp\\capasapp\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9543648B-8BF2-4401-BA72-9E62958B166F}|CapasApp\\CapasApp.csproj|C:\\uvne\\septimo tetra\\proyecto CapasApp\\capasapp\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9543648B-8BF2-4401-BA72-9E62958B166F}|CapasApp\\CapasApp.csproj|solutionrelative:capasapp\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -23,28 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\UnitTestCapas\\UnitTest.cs",
+              "RelativeDocumentMoniker": "UnitTestCapas\\UnitTest.cs",
+              "ToolTip": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\UnitTestCapas\\UnitTest.cs",
+              "RelativeToolTip": "UnitTestCapas\\UnitTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:33:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\AppDatos\\Datos.cs",
+              "RelativeDocumentMoniker": "AppDatos\\Datos.cs",
+              "ToolTip": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\AppDatos\\Datos.cs",
+              "RelativeToolTip": "AppDatos\\Datos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:19:21.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\AppNegocio\\Negocio.cs",
+              "RelativeDocumentMoniker": "AppNegocio\\Negocio.cs",
+              "ToolTip": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\AppNegocio\\Negocio.cs",
+              "RelativeToolTip": "AppNegocio\\Negocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:57:31.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "index.aspx.cs",
-              "DocumentMoniker": "C:\\uvne\\septimo tetra\\CapasApp\\CapasApp\\index.aspx.cs",
+              "DocumentMoniker": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\CapasApp\\index.aspx.cs",
               "RelativeDocumentMoniker": "CapasApp\\index.aspx.cs",
-              "ToolTip": "C:\\uvne\\septimo tetra\\CapasApp\\CapasApp\\index.aspx.cs",
+              "ToolTip": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\CapasApp\\index.aspx.cs",
               "RelativeToolTip": "CapasApp\\index.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAASwB4AAAA3AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T19:10:20.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "index.aspx",
-              "DocumentMoniker": "C:\\uvne\\septimo tetra\\CapasApp\\CapasApp\\index.aspx",
+              "DocumentMoniker": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\CapasApp\\index.aspx",
               "RelativeDocumentMoniker": "CapasApp\\index.aspx",
-              "ToolTip": "C:\\uvne\\septimo tetra\\CapasApp\\CapasApp\\index.aspx",
+              "ToolTip": "C:\\uvne\\septimo tetra\\proyecto CapasApp\\CapasApp\\index.aspx",
               "RelativeToolTip": "CapasApp\\index.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-08T18:28:27.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T18:28:27.368Z"
             }
           ]
         }
